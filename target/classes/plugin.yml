@@ -1,0 +1,6 @@
+name: AntiCrashClient
+main: ch.toothwit.anticrashclient.main.AntiCrashClient
+version: 0.1
+author: fredo121, Toothwitch 
+description: AntiCrashClient Plugin using Spigot API 
+depend: [ProtocolLib] 
